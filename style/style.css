@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+a {
+	color: #FFFFFF;
+	font-size: 15px;
+	text-decoration: none;
+	margin-left: 10px;
+}
+
+header {
+	background: #0020F4;
+
+}
+
+.logo {
+	margin-left: 5px;
+	margin-top: 5px;
+
+}
+
+.contact {
+	background: #FFFFFF;
+	color: black;
+}
+
+.photo {
+	width: 10px;
+	height: 10px;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
