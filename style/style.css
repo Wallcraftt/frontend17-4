@@ -73,8 +73,13 @@ footer nav{
 	height: 200px;
 }
 
-.x {
-	margin-left: 120px;
-	margin-top: 120px;
+#y {
+	margin-left: 90px;
+	
+
 }
 
+#x {
+	padding-left: 700px;
+	padding-bottom: 80px;
+}
