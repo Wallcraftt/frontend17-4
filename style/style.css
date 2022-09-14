@@ -26,10 +26,18 @@ header {
 	color: black;
 }
 
-.photo {
-	width: 10px;
-	height: 10px;
-	object-fit: cover;
-	border-radius: 10px;
+
+.about {
+ 	width: 750px;
+ 	margin: 0 auto;
+
 }
+
+#photo {
+	width: 100%;
+	padding-bottom: 30px;
+
+}
+
+
 
