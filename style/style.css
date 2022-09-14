@@ -28,16 +28,53 @@ header {
 
 
 .about {
- 	width: 750px;
+ 	width: 800px;
  	margin: 0 auto;
 
 }
 
 #photo {
 	width: 100%;
-	padding-bottom: 30px;
+	margin-bottom: 30px;
+	margin-top: 0px;
 
 }
 
+div > img {
+	margin-top: 60px;
+	margin-bottom: 60px;
+	border-radius: 15px;
+	width: 100px;
 
+}
+
+div > p {
+	color: #171717;
+ 	padding: 20px;
+}
+
+.txt3 {
+	padding-bottom: 18px;
+}
+
+button {
+	color: white;
+	background-color: blue;
+	border-radius: 28px;
+	width: 341px;
+	height: 30px;
+	margin-left: 250px;
+	margin-bottom: 60px;
+}
+
+footer nav{
+	background-color: #0A22F4;
+	width: 1345px;
+	height: 200px;
+}
+
+.x {
+	margin-left: 120px;
+	margin-top: 120px;
+}
 
